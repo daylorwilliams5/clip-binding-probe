@@ -1,0 +1,161 @@
+filename,type,pair_id,shape,color,shape_left,color_left,shape_right,color_right,text
+singleton_circle_red.png,singleton,,circle,red,,,,,
+singleton_circle_blue.png,singleton,,circle,blue,,,,,
+singleton_circle_green.png,singleton,,circle,green,,,,,
+singleton_circle_yellow.png,singleton,,circle,yellow,,,,,
+singleton_square_red.png,singleton,,square,red,,,,,
+singleton_square_blue.png,singleton,,square,blue,,,,,
+singleton_square_green.png,singleton,,square,green,,,,,
+singleton_square_yellow.png,singleton,,square,yellow,,,,,
+singleton_triangle_red.png,singleton,,triangle,red,,,,,
+singleton_triangle_blue.png,singleton,,triangle,blue,,,,,
+singleton_triangle_green.png,singleton,,triangle,green,,,,,
+singleton_triangle_yellow.png,singleton,,triangle,yellow,,,,,
+singleton_star_red.png,singleton,,star,red,,,,,
+singleton_star_blue.png,singleton,,star,blue,,,,,
+singleton_star_green.png,singleton,,star,green,,,,,
+singleton_star_yellow.png,singleton,,star,yellow,,,,,
+pair0000_circle_red_square_blue.png,pair,0,,,circle,red,square,blue,a red circle and a blue square
+pair0000_circle_blue_square_red.png,pair,0,,,circle,blue,square,red,a blue circle and a red square
+pair0001_circle_red_square_green.png,pair,1,,,circle,red,square,green,a red circle and a green square
+pair0001_circle_green_square_red.png,pair,1,,,circle,green,square,red,a green circle and a red square
+pair0002_circle_red_square_yellow.png,pair,2,,,circle,red,square,yellow,a red circle and a yellow square
+pair0002_circle_yellow_square_red.png,pair,2,,,circle,yellow,square,red,a yellow circle and a red square
+pair0003_circle_blue_square_green.png,pair,3,,,circle,blue,square,green,a blue circle and a green square
+pair0003_circle_green_square_blue.png,pair,3,,,circle,green,square,blue,a green circle and a blue square
+pair0004_circle_blue_square_yellow.png,pair,4,,,circle,blue,square,yellow,a blue circle and a yellow square
+pair0004_circle_yellow_square_blue.png,pair,4,,,circle,yellow,square,blue,a yellow circle and a blue square
+pair0005_circle_green_square_yellow.png,pair,5,,,circle,green,square,yellow,a green circle and a yellow square
+pair0005_circle_yellow_square_green.png,pair,5,,,circle,yellow,square,green,a yellow circle and a green square
+pair0006_circle_red_triangle_blue.png,pair,6,,,circle,red,triangle,blue,a red circle and a blue triangle
+pair0006_circle_blue_triangle_red.png,pair,6,,,circle,blue,triangle,red,a blue circle and a red triangle
+pair0007_circle_red_triangle_green.png,pair,7,,,circle,red,triangle,green,a red circle and a green triangle
+pair0007_circle_green_triangle_red.png,pair,7,,,circle,green,triangle,red,a green circle and a red triangle
+pair0008_circle_red_triangle_yellow.png,pair,8,,,circle,red,triangle,yellow,a red circle and a yellow triangle
+pair0008_circle_yellow_triangle_red.png,pair,8,,,circle,yellow,triangle,red,a yellow circle and a red triangle
+pair0009_circle_blue_triangle_green.png,pair,9,,,circle,blue,triangle,green,a blue circle and a green triangle
+pair0009_circle_green_triangle_blue.png,pair,9,,,circle,green,triangle,blue,a green circle and a blue triangle
+pair0010_circle_blue_triangle_yellow.png,pair,10,,,circle,blue,triangle,yellow,a blue circle and a yellow triangle
+pair0010_circle_yellow_triangle_blue.png,pair,10,,,circle,yellow,triangle,blue,a yellow circle and a blue triangle
+pair0011_circle_green_triangle_yellow.png,pair,11,,,circle,green,triangle,yellow,a green circle and a yellow triangle
+pair0011_circle_yellow_triangle_green.png,pair,11,,,circle,yellow,triangle,green,a yellow circle and a green triangle
+pair0012_circle_red_star_blue.png,pair,12,,,circle,red,star,blue,a red circle and a blue star
+pair0012_circle_blue_star_red.png,pair,12,,,circle,blue,star,red,a blue circle and a red star
+pair0013_circle_red_star_green.png,pair,13,,,circle,red,star,green,a red circle and a green star
+pair0013_circle_green_star_red.png,pair,13,,,circle,green,star,red,a green circle and a red star
+pair0014_circle_red_star_yellow.png,pair,14,,,circle,red,star,yellow,a red circle and a yellow star
+pair0014_circle_yellow_star_red.png,pair,14,,,circle,yellow,star,red,a yellow circle and a red star
+pair0015_circle_blue_star_green.png,pair,15,,,circle,blue,star,green,a blue circle and a green star
+pair0015_circle_green_star_blue.png,pair,15,,,circle,green,star,blue,a green circle and a blue star
+pair0016_circle_blue_star_yellow.png,pair,16,,,circle,blue,star,yellow,a blue circle and a yellow star
+pair0016_circle_yellow_star_blue.png,pair,16,,,circle,yellow,star,blue,a yellow circle and a blue star
+pair0017_circle_green_star_yellow.png,pair,17,,,circle,green,star,yellow,a green circle and a yellow star
+pair0017_circle_yellow_star_green.png,pair,17,,,circle,yellow,star,green,a yellow circle and a green star
+pair0018_square_red_circle_blue.png,pair,18,,,square,red,circle,blue,a red square and a blue circle
+pair0018_square_blue_circle_red.png,pair,18,,,square,blue,circle,red,a blue square and a red circle
+pair0019_square_red_circle_green.png,pair,19,,,square,red,circle,green,a red square and a green circle
+pair0019_square_green_circle_red.png,pair,19,,,square,green,circle,red,a green square and a red circle
+pair0020_square_red_circle_yellow.png,pair,20,,,square,red,circle,yellow,a red square and a yellow circle
+pair0020_square_yellow_circle_red.png,pair,20,,,square,yellow,circle,red,a yellow square and a red circle
+pair0021_square_blue_circle_green.png,pair,21,,,square,blue,circle,green,a blue square and a green circle
+pair0021_square_green_circle_blue.png,pair,21,,,square,green,circle,blue,a green square and a blue circle
+pair0022_square_blue_circle_yellow.png,pair,22,,,square,blue,circle,yellow,a blue square and a yellow circle
+pair0022_square_yellow_circle_blue.png,pair,22,,,square,yellow,circle,blue,a yellow square and a blue circle
+pair0023_square_green_circle_yellow.png,pair,23,,,square,green,circle,yellow,a green square and a yellow circle
+pair0023_square_yellow_circle_green.png,pair,23,,,square,yellow,circle,green,a yellow square and a green circle
+pair0024_square_red_triangle_blue.png,pair,24,,,square,red,triangle,blue,a red square and a blue triangle
+pair0024_square_blue_triangle_red.png,pair,24,,,square,blue,triangle,red,a blue square and a red triangle
+pair0025_square_red_triangle_green.png,pair,25,,,square,red,triangle,green,a red square and a green triangle
+pair0025_square_green_triangle_red.png,pair,25,,,square,green,triangle,red,a green square and a red triangle
+pair0026_square_red_triangle_yellow.png,pair,26,,,square,red,triangle,yellow,a red square and a yellow triangle
+pair0026_square_yellow_triangle_red.png,pair,26,,,square,yellow,triangle,red,a yellow square and a red triangle
+pair0027_square_blue_triangle_green.png,pair,27,,,square,blue,triangle,green,a blue square and a green triangle
+pair0027_square_green_triangle_blue.png,pair,27,,,square,green,triangle,blue,a green square and a blue triangle
+pair0028_square_blue_triangle_yellow.png,pair,28,,,square,blue,triangle,yellow,a blue square and a yellow triangle
+pair0028_square_yellow_triangle_blue.png,pair,28,,,square,yellow,triangle,blue,a yellow square and a blue triangle
+pair0029_square_green_triangle_yellow.png,pair,29,,,square,green,triangle,yellow,a green square and a yellow triangle
+pair0029_square_yellow_triangle_green.png,pair,29,,,square,yellow,triangle,green,a yellow square and a green triangle
+pair0030_square_red_star_blue.png,pair,30,,,square,red,star,blue,a red square and a blue star
+pair0030_square_blue_star_red.png,pair,30,,,square,blue,star,red,a blue square and a red star
+pair0031_square_red_star_green.png,pair,31,,,square,red,star,green,a red square and a green star
+pair0031_square_green_star_red.png,pair,31,,,square,green,star,red,a green square and a red star
+pair0032_square_red_star_yellow.png,pair,32,,,square,red,star,yellow,a red square and a yellow star
+pair0032_square_yellow_star_red.png,pair,32,,,square,yellow,star,red,a yellow square and a red star
+pair0033_square_blue_star_green.png,pair,33,,,square,blue,star,green,a blue square and a green star
+pair0033_square_green_star_blue.png,pair,33,,,square,green,star,blue,a green square and a blue star
+pair0034_square_blue_star_yellow.png,pair,34,,,square,blue,star,yellow,a blue square and a yellow star
+pair0034_square_yellow_star_blue.png,pair,34,,,square,yellow,star,blue,a yellow square and a blue star
+pair0035_square_green_star_yellow.png,pair,35,,,square,green,star,yellow,a green square and a yellow star
+pair0035_square_yellow_star_green.png,pair,35,,,square,yellow,star,green,a yellow square and a green star
+pair0036_triangle_red_circle_blue.png,pair,36,,,triangle,red,circle,blue,a red triangle and a blue circle
+pair0036_triangle_blue_circle_red.png,pair,36,,,triangle,blue,circle,red,a blue triangle and a red circle
+pair0037_triangle_red_circle_green.png,pair,37,,,triangle,red,circle,green,a red triangle and a green circle
+pair0037_triangle_green_circle_red.png,pair,37,,,triangle,green,circle,red,a green triangle and a red circle
+pair0038_triangle_red_circle_yellow.png,pair,38,,,triangle,red,circle,yellow,a red triangle and a yellow circle
+pair0038_triangle_yellow_circle_red.png,pair,38,,,triangle,yellow,circle,red,a yellow triangle and a red circle
+pair0039_triangle_blue_circle_green.png,pair,39,,,triangle,blue,circle,green,a blue triangle and a green circle
+pair0039_triangle_green_circle_blue.png,pair,39,,,triangle,green,circle,blue,a green triangle and a blue circle
+pair0040_triangle_blue_circle_yellow.png,pair,40,,,triangle,blue,circle,yellow,a blue triangle and a yellow circle
+pair0040_triangle_yellow_circle_blue.png,pair,40,,,triangle,yellow,circle,blue,a yellow triangle and a blue circle
+pair0041_triangle_green_circle_yellow.png,pair,41,,,triangle,green,circle,yellow,a green triangle and a yellow circle
+pair0041_triangle_yellow_circle_green.png,pair,41,,,triangle,yellow,circle,green,a yellow triangle and a green circle
+pair0042_triangle_red_square_blue.png,pair,42,,,triangle,red,square,blue,a red triangle and a blue square
+pair0042_triangle_blue_square_red.png,pair,42,,,triangle,blue,square,red,a blue triangle and a red square
+pair0043_triangle_red_square_green.png,pair,43,,,triangle,red,square,green,a red triangle and a green square
+pair0043_triangle_green_square_red.png,pair,43,,,triangle,green,square,red,a green triangle and a red square
+pair0044_triangle_red_square_yellow.png,pair,44,,,triangle,red,square,yellow,a red triangle and a yellow square
+pair0044_triangle_yellow_square_red.png,pair,44,,,triangle,yellow,square,red,a yellow triangle and a red square
+pair0045_triangle_blue_square_green.png,pair,45,,,triangle,blue,square,green,a blue triangle and a green square
+pair0045_triangle_green_square_blue.png,pair,45,,,triangle,green,square,blue,a green triangle and a blue square
+pair0046_triangle_blue_square_yellow.png,pair,46,,,triangle,blue,square,yellow,a blue triangle and a yellow square
+pair0046_triangle_yellow_square_blue.png,pair,46,,,triangle,yellow,square,blue,a yellow triangle and a blue square
+pair0047_triangle_green_square_yellow.png,pair,47,,,triangle,green,square,yellow,a green triangle and a yellow square
+pair0047_triangle_yellow_square_green.png,pair,47,,,triangle,yellow,square,green,a yellow triangle and a green square
+pair0048_triangle_red_star_blue.png,pair,48,,,triangle,red,star,blue,a red triangle and a blue star
+pair0048_triangle_blue_star_red.png,pair,48,,,triangle,blue,star,red,a blue triangle and a red star
+pair0049_triangle_red_star_green.png,pair,49,,,triangle,red,star,green,a red triangle and a green star
+pair0049_triangle_green_star_red.png,pair,49,,,triangle,green,star,red,a green triangle and a red star
+pair0050_triangle_red_star_yellow.png,pair,50,,,triangle,red,star,yellow,a red triangle and a yellow star
+pair0050_triangle_yellow_star_red.png,pair,50,,,triangle,yellow,star,red,a yellow triangle and a red star
+pair0051_triangle_blue_star_green.png,pair,51,,,triangle,blue,star,green,a blue triangle and a green star
+pair0051_triangle_green_star_blue.png,pair,51,,,triangle,green,star,blue,a green triangle and a blue star
+pair0052_triangle_blue_star_yellow.png,pair,52,,,triangle,blue,star,yellow,a blue triangle and a yellow star
+pair0052_triangle_yellow_star_blue.png,pair,52,,,triangle,yellow,star,blue,a yellow triangle and a blue star
+pair0053_triangle_green_star_yellow.png,pair,53,,,triangle,green,star,yellow,a green triangle and a yellow star
+pair0053_triangle_yellow_star_green.png,pair,53,,,triangle,yellow,star,green,a yellow triangle and a green star
+pair0054_star_red_circle_blue.png,pair,54,,,star,red,circle,blue,a red star and a blue circle
+pair0054_star_blue_circle_red.png,pair,54,,,star,blue,circle,red,a blue star and a red circle
+pair0055_star_red_circle_green.png,pair,55,,,star,red,circle,green,a red star and a green circle
+pair0055_star_green_circle_red.png,pair,55,,,star,green,circle,red,a green star and a red circle
+pair0056_star_red_circle_yellow.png,pair,56,,,star,red,circle,yellow,a red star and a yellow circle
+pair0056_star_yellow_circle_red.png,pair,56,,,star,yellow,circle,red,a yellow star and a red circle
+pair0057_star_blue_circle_green.png,pair,57,,,star,blue,circle,green,a blue star and a green circle
+pair0057_star_green_circle_blue.png,pair,57,,,star,green,circle,blue,a green star and a blue circle
+pair0058_star_blue_circle_yellow.png,pair,58,,,star,blue,circle,yellow,a blue star and a yellow circle
+pair0058_star_yellow_circle_blue.png,pair,58,,,star,yellow,circle,blue,a yellow star and a blue circle
+pair0059_star_green_circle_yellow.png,pair,59,,,star,green,circle,yellow,a green star and a yellow circle
+pair0059_star_yellow_circle_green.png,pair,59,,,star,yellow,circle,green,a yellow star and a green circle
+pair0060_star_red_square_blue.png,pair,60,,,star,red,square,blue,a red star and a blue square
+pair0060_star_blue_square_red.png,pair,60,,,star,blue,square,red,a blue star and a red square
+pair0061_star_red_square_green.png,pair,61,,,star,red,square,green,a red star and a green square
+pair0061_star_green_square_red.png,pair,61,,,star,green,square,red,a green star and a red square
+pair0062_star_red_square_yellow.png,pair,62,,,star,red,square,yellow,a red star and a yellow square
+pair0062_star_yellow_square_red.png,pair,62,,,star,yellow,square,red,a yellow star and a red square
+pair0063_star_blue_square_green.png,pair,63,,,star,blue,square,green,a blue star and a green square
+pair0063_star_green_square_blue.png,pair,63,,,star,green,square,blue,a green star and a blue square
+pair0064_star_blue_square_yellow.png,pair,64,,,star,blue,square,yellow,a blue star and a yellow square
+pair0064_star_yellow_square_blue.png,pair,64,,,star,yellow,square,blue,a yellow star and a blue square
+pair0065_star_green_square_yellow.png,pair,65,,,star,green,square,yellow,a green star and a yellow square
+pair0065_star_yellow_square_green.png,pair,65,,,star,yellow,square,green,a yellow star and a green square
+pair0066_star_red_triangle_blue.png,pair,66,,,star,red,triangle,blue,a red star and a blue triangle
+pair0066_star_blue_triangle_red.png,pair,66,,,star,blue,triangle,red,a blue star and a red triangle
+pair0067_star_red_triangle_green.png,pair,67,,,star,red,triangle,green,a red star and a green triangle
+pair0067_star_green_triangle_red.png,pair,67,,,star,green,triangle,red,a green star and a red triangle
+pair0068_star_red_triangle_yellow.png,pair,68,,,star,red,triangle,yellow,a red star and a yellow triangle
+pair0068_star_yellow_triangle_red.png,pair,68,,,star,yellow,triangle,red,a yellow star and a red triangle
+pair0069_star_blue_triangle_green.png,pair,69,,,star,blue,triangle,green,a blue star and a green triangle
+pair0069_star_green_triangle_blue.png,pair,69,,,star,green,triangle,blue,a green star and a blue triangle
+pair0070_star_blue_triangle_yellow.png,pair,70,,,star,blue,triangle,yellow,a blue star and a yellow triangle
+pair0070_star_yellow_triangle_blue.png,pair,70,,,star,yellow,triangle,blue,a yellow star and a blue triangle
+pair0071_star_green_triangle_yellow.png,pair,71,,,star,green,triangle,yellow,a green star and a yellow triangle
+pair0071_star_yellow_triangle_green.png,pair,71,,,star,yellow,triangle,green,a yellow star and a green triangle

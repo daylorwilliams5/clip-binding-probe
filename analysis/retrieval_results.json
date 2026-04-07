@@ -1,0 +1,727 @@
+{
+  "image_level_accuracy": 0.5486111111111112,
+  "group_level_accuracy": 0.125,
+  "n_pairs": 72,
+  "per_pair": [
+    {
+      "pair_id": "0",
+      "shape_a": "circle",
+      "shape_b": "square",
+      "color_1": "red",
+      "color_2": "blue",
+      "img1_correct": false,
+      "img2_correct": true,
+      "both_correct": false
+    },
+    {
+      "pair_id": "1",
+      "shape_a": "circle",
+      "shape_b": "square",
+      "color_1": "red",
+      "color_2": "green",
+      "img1_correct": false,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "2",
+      "shape_a": "circle",
+      "shape_b": "square",
+      "color_1": "red",
+      "color_2": "yellow",
+      "img1_correct": false,
+      "img2_correct": true,
+      "both_correct": false
+    },
+    {
+      "pair_id": "3",
+      "shape_a": "circle",
+      "shape_b": "square",
+      "color_1": "blue",
+      "color_2": "green",
+      "img1_correct": false,
+      "img2_correct": true,
+      "both_correct": false
+    },
+    {
+      "pair_id": "4",
+      "shape_a": "circle",
+      "shape_b": "square",
+      "color_1": "blue",
+      "color_2": "yellow",
+      "img1_correct": false,
+      "img2_correct": true,
+      "both_correct": false
+    },
+    {
+      "pair_id": "5",
+      "shape_a": "circle",
+      "shape_b": "square",
+      "color_1": "green",
+      "color_2": "yellow",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "6",
+      "shape_a": "circle",
+      "shape_b": "triangle",
+      "color_1": "red",
+      "color_2": "blue",
+      "img1_correct": false,
+      "img2_correct": true,
+      "both_correct": false
+    },
+    {
+      "pair_id": "7",
+      "shape_a": "circle",
+      "shape_b": "triangle",
+      "color_1": "red",
+      "color_2": "green",
+      "img1_correct": false,
+      "img2_correct": true,
+      "both_correct": false
+    },
+    {
+      "pair_id": "8",
+      "shape_a": "circle",
+      "shape_b": "triangle",
+      "color_1": "red",
+      "color_2": "yellow",
+      "img1_correct": false,
+      "img2_correct": true,
+      "both_correct": false
+    },
+    {
+      "pair_id": "9",
+      "shape_a": "circle",
+      "shape_b": "triangle",
+      "color_1": "blue",
+      "color_2": "green",
+      "img1_correct": false,
+      "img2_correct": true,
+      "both_correct": false
+    },
+    {
+      "pair_id": "10",
+      "shape_a": "circle",
+      "shape_b": "triangle",
+      "color_1": "blue",
+      "color_2": "yellow",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "11",
+      "shape_a": "circle",
+      "shape_b": "triangle",
+      "color_1": "green",
+      "color_2": "yellow",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "12",
+      "shape_a": "circle",
+      "shape_b": "star",
+      "color_1": "red",
+      "color_2": "blue",
+      "img1_correct": false,
+      "img2_correct": true,
+      "both_correct": false
+    },
+    {
+      "pair_id": "13",
+      "shape_a": "circle",
+      "shape_b": "star",
+      "color_1": "red",
+      "color_2": "green",
+      "img1_correct": false,
+      "img2_correct": true,
+      "both_correct": false
+    },
+    {
+      "pair_id": "14",
+      "shape_a": "circle",
+      "shape_b": "star",
+      "color_1": "red",
+      "color_2": "yellow",
+      "img1_correct": false,
+      "img2_correct": true,
+      "both_correct": false
+    },
+    {
+      "pair_id": "15",
+      "shape_a": "circle",
+      "shape_b": "star",
+      "color_1": "blue",
+      "color_2": "green",
+      "img1_correct": true,
+      "img2_correct": true,
+      "both_correct": true
+    },
+    {
+      "pair_id": "16",
+      "shape_a": "circle",
+      "shape_b": "star",
+      "color_1": "blue",
+      "color_2": "yellow",
+      "img1_correct": true,
+      "img2_correct": true,
+      "both_correct": true
+    },
+    {
+      "pair_id": "17",
+      "shape_a": "circle",
+      "shape_b": "star",
+      "color_1": "green",
+      "color_2": "yellow",
+      "img1_correct": true,
+      "img2_correct": true,
+      "both_correct": true
+    },
+    {
+      "pair_id": "18",
+      "shape_a": "square",
+      "shape_b": "circle",
+      "color_1": "red",
+      "color_2": "blue",
+      "img1_correct": false,
+      "img2_correct": true,
+      "both_correct": false
+    },
+    {
+      "pair_id": "19",
+      "shape_a": "square",
+      "shape_b": "circle",
+      "color_1": "red",
+      "color_2": "green",
+      "img1_correct": false,
+      "img2_correct": true,
+      "both_correct": false
+    },
+    {
+      "pair_id": "20",
+      "shape_a": "square",
+      "shape_b": "circle",
+      "color_1": "red",
+      "color_2": "yellow",
+      "img1_correct": false,
+      "img2_correct": true,
+      "both_correct": false
+    },
+    {
+      "pair_id": "21",
+      "shape_a": "square",
+      "shape_b": "circle",
+      "color_1": "blue",
+      "color_2": "green",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "22",
+      "shape_a": "square",
+      "shape_b": "circle",
+      "color_1": "blue",
+      "color_2": "yellow",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "23",
+      "shape_a": "square",
+      "shape_b": "circle",
+      "color_1": "green",
+      "color_2": "yellow",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "24",
+      "shape_a": "square",
+      "shape_b": "triangle",
+      "color_1": "red",
+      "color_2": "blue",
+      "img1_correct": false,
+      "img2_correct": true,
+      "both_correct": false
+    },
+    {
+      "pair_id": "25",
+      "shape_a": "square",
+      "shape_b": "triangle",
+      "color_1": "red",
+      "color_2": "green",
+      "img1_correct": false,
+      "img2_correct": true,
+      "both_correct": false
+    },
+    {
+      "pair_id": "26",
+      "shape_a": "square",
+      "shape_b": "triangle",
+      "color_1": "red",
+      "color_2": "yellow",
+      "img1_correct": false,
+      "img2_correct": true,
+      "both_correct": false
+    },
+    {
+      "pair_id": "27",
+      "shape_a": "square",
+      "shape_b": "triangle",
+      "color_1": "blue",
+      "color_2": "green",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "28",
+      "shape_a": "square",
+      "shape_b": "triangle",
+      "color_1": "blue",
+      "color_2": "yellow",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "29",
+      "shape_a": "square",
+      "shape_b": "triangle",
+      "color_1": "green",
+      "color_2": "yellow",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "30",
+      "shape_a": "square",
+      "shape_b": "star",
+      "color_1": "red",
+      "color_2": "blue",
+      "img1_correct": false,
+      "img2_correct": true,
+      "both_correct": false
+    },
+    {
+      "pair_id": "31",
+      "shape_a": "square",
+      "shape_b": "star",
+      "color_1": "red",
+      "color_2": "green",
+      "img1_correct": false,
+      "img2_correct": true,
+      "both_correct": false
+    },
+    {
+      "pair_id": "32",
+      "shape_a": "square",
+      "shape_b": "star",
+      "color_1": "red",
+      "color_2": "yellow",
+      "img1_correct": false,
+      "img2_correct": true,
+      "both_correct": false
+    },
+    {
+      "pair_id": "33",
+      "shape_a": "square",
+      "shape_b": "star",
+      "color_1": "blue",
+      "color_2": "green",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "34",
+      "shape_a": "square",
+      "shape_b": "star",
+      "color_1": "blue",
+      "color_2": "yellow",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "35",
+      "shape_a": "square",
+      "shape_b": "star",
+      "color_1": "green",
+      "color_2": "yellow",
+      "img1_correct": true,
+      "img2_correct": true,
+      "both_correct": true
+    },
+    {
+      "pair_id": "36",
+      "shape_a": "triangle",
+      "shape_b": "circle",
+      "color_1": "red",
+      "color_2": "blue",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "37",
+      "shape_a": "triangle",
+      "shape_b": "circle",
+      "color_1": "red",
+      "color_2": "green",
+      "img1_correct": false,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "38",
+      "shape_a": "triangle",
+      "shape_b": "circle",
+      "color_1": "red",
+      "color_2": "yellow",
+      "img1_correct": true,
+      "img2_correct": true,
+      "both_correct": true
+    },
+    {
+      "pair_id": "39",
+      "shape_a": "triangle",
+      "shape_b": "circle",
+      "color_1": "blue",
+      "color_2": "green",
+      "img1_correct": false,
+      "img2_correct": true,
+      "both_correct": false
+    },
+    {
+      "pair_id": "40",
+      "shape_a": "triangle",
+      "shape_b": "circle",
+      "color_1": "blue",
+      "color_2": "yellow",
+      "img1_correct": false,
+      "img2_correct": true,
+      "both_correct": false
+    },
+    {
+      "pair_id": "41",
+      "shape_a": "triangle",
+      "shape_b": "circle",
+      "color_1": "green",
+      "color_2": "yellow",
+      "img1_correct": false,
+      "img2_correct": true,
+      "both_correct": false
+    },
+    {
+      "pair_id": "42",
+      "shape_a": "triangle",
+      "shape_b": "square",
+      "color_1": "red",
+      "color_2": "blue",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "43",
+      "shape_a": "triangle",
+      "shape_b": "square",
+      "color_1": "red",
+      "color_2": "green",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "44",
+      "shape_a": "triangle",
+      "shape_b": "square",
+      "color_1": "red",
+      "color_2": "yellow",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "45",
+      "shape_a": "triangle",
+      "shape_b": "square",
+      "color_1": "blue",
+      "color_2": "green",
+      "img1_correct": false,
+      "img2_correct": true,
+      "both_correct": false
+    },
+    {
+      "pair_id": "46",
+      "shape_a": "triangle",
+      "shape_b": "square",
+      "color_1": "blue",
+      "color_2": "yellow",
+      "img1_correct": false,
+      "img2_correct": true,
+      "both_correct": false
+    },
+    {
+      "pair_id": "47",
+      "shape_a": "triangle",
+      "shape_b": "square",
+      "color_1": "green",
+      "color_2": "yellow",
+      "img1_correct": false,
+      "img2_correct": true,
+      "both_correct": false
+    },
+    {
+      "pair_id": "48",
+      "shape_a": "triangle",
+      "shape_b": "star",
+      "color_1": "red",
+      "color_2": "blue",
+      "img1_correct": false,
+      "img2_correct": true,
+      "both_correct": false
+    },
+    {
+      "pair_id": "49",
+      "shape_a": "triangle",
+      "shape_b": "star",
+      "color_1": "red",
+      "color_2": "green",
+      "img1_correct": false,
+      "img2_correct": true,
+      "both_correct": false
+    },
+    {
+      "pair_id": "50",
+      "shape_a": "triangle",
+      "shape_b": "star",
+      "color_1": "red",
+      "color_2": "yellow",
+      "img1_correct": false,
+      "img2_correct": true,
+      "both_correct": false
+    },
+    {
+      "pair_id": "51",
+      "shape_a": "triangle",
+      "shape_b": "star",
+      "color_1": "blue",
+      "color_2": "green",
+      "img1_correct": true,
+      "img2_correct": true,
+      "both_correct": true
+    },
+    {
+      "pair_id": "52",
+      "shape_a": "triangle",
+      "shape_b": "star",
+      "color_1": "blue",
+      "color_2": "yellow",
+      "img1_correct": true,
+      "img2_correct": true,
+      "both_correct": true
+    },
+    {
+      "pair_id": "53",
+      "shape_a": "triangle",
+      "shape_b": "star",
+      "color_1": "green",
+      "color_2": "yellow",
+      "img1_correct": true,
+      "img2_correct": true,
+      "both_correct": true
+    },
+    {
+      "pair_id": "54",
+      "shape_a": "star",
+      "shape_b": "circle",
+      "color_1": "red",
+      "color_2": "blue",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "55",
+      "shape_a": "star",
+      "shape_b": "circle",
+      "color_1": "red",
+      "color_2": "green",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "56",
+      "shape_a": "star",
+      "shape_b": "circle",
+      "color_1": "red",
+      "color_2": "yellow",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "57",
+      "shape_a": "star",
+      "shape_b": "circle",
+      "color_1": "blue",
+      "color_2": "green",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "58",
+      "shape_a": "star",
+      "shape_b": "circle",
+      "color_1": "blue",
+      "color_2": "yellow",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "59",
+      "shape_a": "star",
+      "shape_b": "circle",
+      "color_1": "green",
+      "color_2": "yellow",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "60",
+      "shape_a": "star",
+      "shape_b": "square",
+      "color_1": "red",
+      "color_2": "blue",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "61",
+      "shape_a": "star",
+      "shape_b": "square",
+      "color_1": "red",
+      "color_2": "green",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "62",
+      "shape_a": "star",
+      "shape_b": "square",
+      "color_1": "red",
+      "color_2": "yellow",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "63",
+      "shape_a": "star",
+      "shape_b": "square",
+      "color_1": "blue",
+      "color_2": "green",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "64",
+      "shape_a": "star",
+      "shape_b": "square",
+      "color_1": "blue",
+      "color_2": "yellow",
+      "img1_correct": true,
+      "img2_correct": true,
+      "both_correct": true
+    },
+    {
+      "pair_id": "65",
+      "shape_a": "star",
+      "shape_b": "square",
+      "color_1": "green",
+      "color_2": "yellow",
+      "img1_correct": false,
+      "img2_correct": true,
+      "both_correct": false
+    },
+    {
+      "pair_id": "66",
+      "shape_a": "star",
+      "shape_b": "triangle",
+      "color_1": "red",
+      "color_2": "blue",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "67",
+      "shape_a": "star",
+      "shape_b": "triangle",
+      "color_1": "red",
+      "color_2": "green",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "68",
+      "shape_a": "star",
+      "shape_b": "triangle",
+      "color_1": "red",
+      "color_2": "yellow",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "69",
+      "shape_a": "star",
+      "shape_b": "triangle",
+      "color_1": "blue",
+      "color_2": "green",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "70",
+      "shape_a": "star",
+      "shape_b": "triangle",
+      "color_1": "blue",
+      "color_2": "yellow",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    },
+    {
+      "pair_id": "71",
+      "shape_a": "star",
+      "shape_b": "triangle",
+      "color_1": "green",
+      "color_2": "yellow",
+      "img1_correct": true,
+      "img2_correct": false,
+      "both_correct": false
+    }
+  ]
+}
