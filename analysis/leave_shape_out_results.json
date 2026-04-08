@@ -1,0 +1,45 @@
+{
+  "per_shape": [
+    {
+      "held_out": "circle",
+      "n_test_pairs": 36,
+      "n_train_pairs": 36,
+      "baseline_image": 0.4722222222222222,
+      "baseline_group": 0.1111111111111111,
+      "learned_image": 0.5,
+      "learned_group": 0.2222222222222222
+    },
+    {
+      "held_out": "square",
+      "n_test_pairs": 36,
+      "n_train_pairs": 36,
+      "baseline_image": 0.4861111111111111,
+      "baseline_group": 0.05555555555555555,
+      "learned_image": 0.5,
+      "learned_group": 0.2222222222222222
+    },
+    {
+      "held_out": "triangle",
+      "n_test_pairs": 36,
+      "n_train_pairs": 36,
+      "baseline_image": 0.4861111111111111,
+      "baseline_group": 0.1111111111111111,
+      "learned_image": 0.5,
+      "learned_group": 0.3611111111111111
+    },
+    {
+      "held_out": "star",
+      "n_test_pairs": 36,
+      "n_train_pairs": 36,
+      "baseline_image": 0.5,
+      "baseline_group": 0.2222222222222222,
+      "learned_image": 0.5,
+      "learned_group": 0.3055555555555556
+    }
+  ],
+  "summary": {
+    "mean_baseline_group": 0.125,
+    "mean_learned_group": 0.2777777777777778,
+    "layer_used": 12
+  }
+}

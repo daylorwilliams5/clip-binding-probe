@@ -1,0 +1,73 @@
+{
+  "baseline": {
+    "image_acc": 0.5,
+    "group_acc": 0.0
+  },
+  "layers": [
+    {
+      "layer": 0,
+      "image_acc": 0.5,
+      "group_acc": 0.0
+    },
+    {
+      "layer": 1,
+      "image_acc": 0.5,
+      "group_acc": 0.0
+    },
+    {
+      "layer": 2,
+      "image_acc": 0.5,
+      "group_acc": 0.08333333333333333
+    },
+    {
+      "layer": 3,
+      "image_acc": 0.5,
+      "group_acc": 0.08333333333333333
+    },
+    {
+      "layer": 4,
+      "image_acc": 0.5,
+      "group_acc": 0.08333333333333333
+    },
+    {
+      "layer": 5,
+      "image_acc": 0.4583333333333333,
+      "group_acc": 0.08333333333333333
+    },
+    {
+      "layer": 6,
+      "image_acc": 0.4583333333333333,
+      "group_acc": 0.08333333333333333
+    },
+    {
+      "layer": 7,
+      "image_acc": 0.5,
+      "group_acc": 0.0
+    },
+    {
+      "layer": 8,
+      "image_acc": 0.5,
+      "group_acc": 0.0
+    },
+    {
+      "layer": 9,
+      "image_acc": 0.5,
+      "group_acc": 0.0
+    },
+    {
+      "layer": 10,
+      "image_acc": 0.5,
+      "group_acc": 0.08333333333333333
+    },
+    {
+      "layer": 11,
+      "image_acc": 0.5,
+      "group_acc": 0.0
+    },
+    {
+      "layer": 12,
+      "image_acc": 0.5,
+      "group_acc": 0.0
+    }
+  ]
+}
