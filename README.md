@@ -4,13 +4,15 @@
 
 CLIP can't tell *"a red cube and a blue sphere"* apart from *"a blue cube and a red sphere."* Prior work (Winoground, ARO) shows this failure behaviorally. This project probes **where inside the vision encoder** binding information appears and disappears.
 
-## Key Finding
+## Key Findings
 
-CLIP's vision encoder *does* encode which color goes with which shape — but only in its middle layers. Layers 3–5 of the ViT contain statistically significant binding information (confirmed via permutation testing, p < 0.001). Later layers progressively erase it. By the final layer, binding accuracy collapses to chance.
+**1. Binding info exists but gets erased.** Layers 3–5 of CLIP's ViT contain statistically significant binding information (permutation test, p < 0.001). Later layers progressively erase it. By the final layer, binding accuracy collapses to chance.
 
-The failure isn't perceptual — CLIP's intermediate representations do see binding. It's architectural: the later layers discard binding information, likely because CLIP's contrastive training objective doesn't reward preserving fine-grained attribute-object associations.
+**2. A simple learned projection fixes it.** Replacing CLIP's default projection with a cross-validated Ridge regression on the final layer's CLS token improves group-level retrieval from 12.5% to **79.2%**. The problem isn't that CLIP's vision encoder lacks binding information — it's that the default projection layer discards it.
 
-This matters for any product using CLIP embeddings (search, content understanding, AR): the model literally cannot distinguish scenes that differ only in how attributes are assigned to objects.
+![Mid-layer retrieval results](figures/midlayer_retrieval.png)
+
+This means CLIP's binding failure is fixable without retraining the model — you just need a better projection from vision to text space.
 
 ## Results
 
