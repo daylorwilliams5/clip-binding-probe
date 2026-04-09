@@ -1,0 +1,32 @@
+{
+  "per_shape": [
+    {
+      "held_out": "circle",
+      "n_test_pairs": 36,
+      "baseline_group": 0.1111111111111111,
+      "mlp_group": 0.1111111111111111
+    },
+    {
+      "held_out": "square",
+      "n_test_pairs": 36,
+      "baseline_group": 0.05555555555555555,
+      "mlp_group": 0.19444444444444445
+    },
+    {
+      "held_out": "triangle",
+      "n_test_pairs": 36,
+      "baseline_group": 0.1111111111111111,
+      "mlp_group": 0.3888888888888889
+    },
+    {
+      "held_out": "star",
+      "n_test_pairs": 36,
+      "baseline_group": 0.2222222222222222,
+      "mlp_group": 0.3611111111111111
+    }
+  ],
+  "summary": {
+    "mean_baseline_group": 0.125,
+    "mean_mlp_group": 0.2638888888888889
+  }
+}
